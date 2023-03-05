@@ -10,6 +10,7 @@ public class Main {
 
         System.out.println(book.getWritingDate());
         book.setWritingDate(1866);
+
         System.out.println(book.getWritingDate());
     }
 }
